@@ -5,9 +5,11 @@ layout: default.html
 # PROJECT IDEAS/ INSPIRATIONS
 ## I would like to work on my first Chatbot!
  It would be interesting to learn about implementing speech-to-text, and text-to-speech software! It would be fascinating to learn the inner workings of an AI chatbot.
-<p> I used to spend hours as little blonde-haired child in the mid 1990s on my MS-DOS computer, communicating sheer filth to the chatbot Dr. Sbaitso. Dr. Sbaitso was a talking AI program that came with early Sound Blaster cards, Sbaitso was an acronym for Sound Blaster Acting Intelligent Text to Speech Operator.</p>
+<p> I used to spend hours as little blonde-haired child in the mid 1990s on my MS-DOS computer, 
+communicating sheer filth to the chatbot Dr. Sbaitso.
+<a href= "https://classicreload.com/dr-sbaitso.html">Dr Sbaitso</a> was a talking AI program that came with early Sound Blaster cards, Sbaitso was an acronym for Sound Blaster Acting Intelligent Text to Speech Operator.</p>
 Dr. Sbaitso posed as a psychiatrist.
-<p> His intro was “HELLO, MY NAME IS DR. SBAITSO. I AM HERE TO HELP YOU. YOU MAY SAY WHATEVER IS ON YOUR MIND FREELY. OUR CONVERSATION WILL BE KEPT IN STRICT CONFIDENCE” and you could talk to him about anything if you dared to. Most of his responses were pretty basic such as “WHY DO YOU FEEL THAT WAY?” and he would ask you a lot of general questions to converse with you. Sometimes it would just reply to something with "THAT’S NOT MY PROBLEM". </p>
+<p> His intro was “HELLO, MY NAME IS DR. SBAITSO. I AM HERE TO HELP YOU. YOU MAY SAY WHATEVER IS ON YOUR MIND FREELY. OUR CONVERSATION WILL BE KEPT IN STRICT CONFIDENCE” and you could talk to him about anything if you dared to. Most of his responses were pretty basic such as “WHY DO YOU FEEL THAT WAY?” and he would ask you a lot of general questions, sometimes just replying with something like "THAT’S NOT MY PROBLEM". </p>
 It was an excellent time-waster. I’d tell Dr. Sbaitso all my deepest darkest secrets. Sometimes he’d impart some general wisdom, or just randomly change the subject, or be very blunt in his responses to my cries for help. “HELP YOURSELF”. Dr. Sbaitso was a wonderfully gifted fake psychologist, it was absolutely cutting edge for me in the early 1990s, lonely, depressed, and desperately in need of childhood therapy. </p>
 <p> Dr Sbaitso helped me through some dark times as a kid.  I learned you could cause "Parity Errors" if you used too many naughty words. He’d say things like “SLOW DOWN. FEEL THE BREATH OF LIFE IN YOU AND BE FASCINATED THAT YOU ARE ALIVE”, and often reply to my inner rantings with mystical sorts of zen riddles.
   
