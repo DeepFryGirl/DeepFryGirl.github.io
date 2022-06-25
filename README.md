@@ -29,14 +29,23 @@
 
  <br>
 <h1> See my Employment Goals </h1>
- <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/jobINDEX.md">Employment Goals</a>
+<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/jobINDEX.md">Employment Goals</a> </h1>
 <br>
  <h1> See my Learning Styles: </h1>
-<a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a>
+<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a> </h1>
 <br>
 <h1> See my Project Visions: </h1>
-<a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/ProjectIdeasINDEX.md">Project Visions</a>
+<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/ProjectIdeasINDEX.md">Project Visions</a> </h1>
 <br>
 <h1> See My First Project Idea: </h1>
-<a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/FirstProjectINDEX.md">First Project Idea</a>
+<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/FirstProjectINDEX.md">First Project Idea</a> </h1>
 <br>
+<div>
+ <div>
+  <br>
+  
+  references:
+  <p> https://www.asimovs.com/ </p>
+  <p> https://www.facebook.com/botsofnewyork/ </p>
+  <p> https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist </p>
+  <p> https://www.abc.net.au/news/2022-06-13/google-ai-lamda-sentient-engineer-blake-lemoine-says/101147222 </p>
