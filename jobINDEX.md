@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-midnight
+layout: theme-midnight
 ---
 
 # The most rewarding jobs I’ve ever had have all involved helping people and contributing in a way to the betterment of society.
