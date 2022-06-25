@@ -1,3 +1,7 @@
+---
+layout: jekyll-theme-midnight
+---
+
 # PROJECT IDEAS/ INSPIRATIONS
 ## I would like to work on my first Chatbot!
  It would be interesting to learn about implementing speech-to-text, and text-to-speech software! It would be fascinating to learn the inner workings of an AI chatbot.
