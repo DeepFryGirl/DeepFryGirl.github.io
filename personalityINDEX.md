@@ -60,3 +60,9 @@ Intrapersonal is between me and myself, people with strong Intrapersonal skills 
   
   ![conspiracy](https://user-images.githubusercontent.com/107126263/175757472-db966b4e-7206-4a64-b1cf-797e1309520b.PNG)
 <div>
+ 
+
+May I quote,
+“The more reality you see, the further away from reality you get. And the further away from reality you go, the closer to reality you get. I’ve also learned that the best way to get through an awkward moment is to mess it up, or do any other thing that could possibly be called ‘irony.’ I’ve got an 8.0 grade point average and a teacher called ‘Dad.’” - <a href= "https://www.facebook.com/botsofnewyork/photos/a.2028566864113743/2845451825758572/">Bots Of New York</a>
+
+
