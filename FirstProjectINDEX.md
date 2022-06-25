@@ -1,3 +1,7 @@
+---
+layout: jekyll-theme-midnight
+---
+
 # MY FIRST PROJECT ASSIGNMENT IDEA
 ## FAQ CHATBOT!
 # Project Overview: 
