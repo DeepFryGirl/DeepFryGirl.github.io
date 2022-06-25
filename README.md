@@ -28,5 +28,7 @@ The most rewarding jobs I’ve ever had have all involved helping people and con
 <body> I believe that my personality, morals, and eclectic mix of hobbies and skills, would be of value and benefit working in the field of AI. <body>
 <p> All my life, I have had such a love of reading, writing, ethics, philosophy, art, and design. Companies need these diverse skills to give their AI its voice, meaning, interface, and personality, and to ensure that their AI is fit for its purpose. <p/>
  
-See my Learning Styles:
+
+ <h1> See my Learning Styles: </h1>
+ 
 <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a>
