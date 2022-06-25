@@ -1,8 +1,3 @@
----
-layout: jekyll-theme-midnight
----
-
-
 # https://deepfrygirl.github.io/
 
 ### Welcome to my first GitHub Repository
