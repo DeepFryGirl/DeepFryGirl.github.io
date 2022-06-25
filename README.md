@@ -32,7 +32,6 @@
  <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/jobINDEX.md">Employment Goals</a>
 <br>
  <h1> See my Learning Styles: </h1>
- <br>
 <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a>
 <br>
 <h1> See my Project Visions: </h1>
@@ -40,3 +39,4 @@
 <br>
 <h1> See My First Project Idea: </h1>
 <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/FirstProjectINDEX.md">First Project Idea</a>
+<br>
