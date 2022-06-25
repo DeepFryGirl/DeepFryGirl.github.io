@@ -1,6 +1,5 @@
 ---
 layout: default
-title: jekyll-theme-midnight
 ---
 
 # The most rewarding jobs I’ve ever had have all involved helping people and contributing in a way to the betterment of society.
@@ -24,3 +23,6 @@ With the right education and skills, I can work towards an entry level role in t
 Starting off with the "Introduction to IT course" and the Bachelors of IT, is certainly a good place for me to start. </p
 
 ![jobCapture](https://user-images.githubusercontent.com/107126263/175758188-385cc2f7-8767-4d10-bd8d-5979b01a187c.PNG)
+
+ (Image Source: https://careers.google.com/how-we-hire/)
+ 
