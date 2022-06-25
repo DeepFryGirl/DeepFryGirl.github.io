@@ -1,12 +1,12 @@
 # DeepFryGirl.github.io
 @DeepFryGirl
 ##### V1DeeplyFriedXX
-### Welcome to My First GitHub Page
-### This site was built using GitHub Pages  (https://pages.github.com/)
+### Welcome to my first GitHub Repository
+### This site was built using <a href="https://pages.github.com/">GitHub Pages</a>
 
 # Hello World
 
-#### 👋 Hi, I’m DeepFryGirl
+#### 👋 Hi, I’m <a href="https://github.com/DeepFryGirl">DeepFryGirl</a> 
 #### 👀 I’m interested in Artificial Intelligence
 #### 🌱 I’m currently learning a Bachelor of Information Technology, at RMIT
 #### 📫 Reach me on [s3559100@student.rmit.edu.au]
