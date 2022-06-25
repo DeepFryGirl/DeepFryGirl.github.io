@@ -33,3 +33,9 @@ Google contains the most excellent foundation of knowledge right at our fingerti
 I hope that I will learn the basic skills required during the Introduction to Programming course as part of the Bachelors of IT.
 <h1> OUTCOME: </h1>
 <p> If the basic Chatbot is a success, it could increase the productivity of my own business, as well as provide a highly profitable opportunity to market the tool to other dreadlock makers, or of course tailor more bots to suit a range of different salons or other businesses. Time is money and responding to messages can be time-consuming and annoying. More time could be spent doing paid work if clients were able to receive 24/7 replies, it would create a more satisfying customer experience and a more reliable and professional business reputation. Learning this tool and creating chatbots could be used to help any business. The knowledge from this course in IT, and the tools we are learning for web development and coding, helping me take these first steps to make a Chatbot, might bring me closer to the Sentient Google Robot, or me creating the perfect Bedtime Story <strike>husband</strike>.. OOPS, I mean robot! </p>
+<br>
+<br>
+<br>
+references:
+<p> https://www.python.org/about/gettingstarted/ </P>
+<p> https://www.tidio.com/lp/chatbots/?utm_source=bing&utm_medium=cpc&utm_campaign=435854874&utm_content=&utm_term=tidio%20chatbot&a_bucket=sem&a_type=brand&a_source=bing.com&a_v=2&a_g_campaignid=435854874&a_g_keyword=tidio%20chatbot&a_g_adgroupid=1338107214022807&a_g_creative=&msclkid=eafa01321c9413be5c466384beba9c3f </p>
