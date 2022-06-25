@@ -35,7 +35,7 @@ I feel like this identifies me quite accurately
 
 <p> I rate considerably above average in all areas except Interpersonal skills where I am considerably below average. Intrapersonal is between me and myself, Interpersonal is between two or more people. People with high Interpersonal skills thrive with social interaction and are gifted in making rapport with strangers, that does not describe me very accurately because I generally just don’t bother. Although I’m like a chameleon and could blend in if I wanted, I tend to avoid people, large crowds, and social interaction. I highly value my peace, solitude, and quiet time. </p>
 
-# I scored the highest on the Generic Conspiracist Beliefs Test 
+# I scored 5/5 on the Generic Conspiracist Beliefs Test 
 <a href="https://openpsychometrics.org/tests/GCBS/">General Conspiracist Beliefs Test</a> 
 <a href="https://openpsychometrics.org/tests/GCBS/results.php?s=4,4,4,4,4">
 
