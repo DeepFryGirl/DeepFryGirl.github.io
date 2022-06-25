@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-midnight
+layout: default
 ---
 
 # My MYERS-BRIGGS Personality Test Identifies me as being an INFJ-A
