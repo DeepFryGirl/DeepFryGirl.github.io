@@ -29,4 +29,4 @@ The most rewarding jobs I’ve ever had have all involved helping people and con
 <p> All my life, I have had such a love of reading, writing, ethics, philosophy, art, and design. Companies need these diverse skills to give their AI its voice, meaning, interface, and personality, and to ensure that their AI is fit for its purpose. <p/>
  
 See my Learning Styles:
-<a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a> https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.
+<a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a>
