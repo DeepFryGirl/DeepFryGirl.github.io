@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-midnight
+layout: default.html
 ---
 
 # PROJECT IDEAS/ INSPIRATIONS
