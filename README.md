@@ -12,7 +12,8 @@
 #### 📫 Reach me on [s3559100@student.rmit.edu.au]
 ####   Student Number: s3559100
 ## My name is Amy Lovett
-
+## I was born in 1989
+![amy](https://user-images.githubusercontent.com/107126263/175754763-dcf9a972-f164-4b81-a860-44e789470350.jpg)
 
 # I have chosen to study Bachelor of Information Technology, at RMIT.
 ## Information Technology strikes me as being a very interesting field of study. 
