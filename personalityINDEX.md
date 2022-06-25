@@ -4,13 +4,11 @@ layout: default
 
 # My MYERS-BRIGGS Personality Test Identifies me as being an INFJ-A
 ![MyersBriggs](https://user-images.githubusercontent.com/107126263/175757409-4e4c74fc-6491-4504-bf3e-61260546e780.PNG)
+(image source: <a href="https://www.16personalities.com/profiles/fbf63b0e33844">16 Personalities</a> https://www.16personalities.com/profile)
 
-I’m described there as an Assertive Advocate. 
+I’m described on https://www.16personalities.com/ as an Assertive Advocate. 
 Role: Diplomat 
-Strategy: Confident Individualism
-
-<a href="https://www.16personalities.com/profiles/fbf63b0e33844">16 Personalities</a> https://www.16personalities.com/profile
-
+Strategy: Confident Individualism.
 I feel like this identifies me pretty accurately!
 - Creative
 - Insightful
@@ -18,7 +16,9 @@ I feel like this identifies me pretty accurately!
 - Passionate
 - Altruistic 
 Allegedly, I'm one of the rarest personality types of all! 
-
+ 
+ <div>
+ <div>
 
 
 
@@ -29,6 +29,7 @@ Allegedly, I'm one of the rarest personality types of all!
 ![Personality1](https://user-images.githubusercontent.com/107126263/175757440-99a2cdb7-d2e5-488f-b985-41993049fd7d.PNG)
 
 ![PersonalityGraph](https://user-images.githubusercontent.com/107126263/175757459-30af80e0-d64f-4a4d-a5f7-198bafa1ec11.PNG)
+  (images source: https://personalitymax.com/report/?mi=90-93-73-73-87-40-100-100&name_key=bc2f95ab8e)
 
 <p> I learn best Kinesthetically, by doing. I also demonstrate the ability to concentrate when listening and absorb information very well in this way, as well as from reading and following clearly written instructions. </p>
 
@@ -51,7 +52,7 @@ Intrapersonal is between me and myself, people with strong Intrapersonal skills 
 
 
 ![PersonalityPie](https://user-images.githubusercontent.com/107126263/175757465-11acd991-e680-49e8-9e8e-0b4912d1ab02.PNG)
-
+(images source https://personalitymax.com/report/?mi=90-93-73-73-87-40-100-100&name_key=bc2f95ab8e)
 <p> </p> 
 
 <div>
