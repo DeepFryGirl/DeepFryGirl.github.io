@@ -23,6 +23,7 @@ Allegedly, I'm one of the rarest personality types of all!
 
 
 # My Learning Style Quiz, shows I have well-rounded abilities! 
+   
 
 <a href="https://personalitymax.com/report/?mi=90-93-73-73-87-40-100-100&name_key=bc2f95ab8e">My Learning Style</a> https://personalitymax.com/
 
@@ -30,10 +31,12 @@ Allegedly, I'm one of the rarest personality types of all!
 
 ![PersonalityGraph](https://user-images.githubusercontent.com/107126263/175757459-30af80e0-d64f-4a4d-a5f7-198bafa1ec11.PNG)
   (images source: https://personalitymax.com/report/?mi=90-93-73-73-87-40-100-100&name_key=bc2f95ab8e)
+  
+   • What do the results of these tests mean for me?
 
-<p> I learn best Kinesthetically, by doing. I also demonstrate the ability to concentrate when listening and absorb information very well in this way, as well as from reading and following clearly written instructions. </p>
+<p> I think I learn far better Kinesthetically, by doing, than any other method, although I do demonstrate the ability to concentrate when listening and absorb information very well in this way, as well as from reading and following clearly written instructions. </p>
 
-<p> Strong naturalist intelligence shows my sensitivity to, and appreciation for nature. I recharge in nature, am always aware of my surroundings, and have very good built-in safety mechanisms. I am quick to notice natural patterns and pick up on changes around me. </p>
+<p> Having strong Naturalist Intelligence I think shows my sensitivity to, and appreciation for nature. I recharge in nature, am always aware of my surroundings, and have very good built-in safety mechanisms. I am quick to notice natural patterns and pick up on changes around me. </p>
 
 <p> People with Logical Intelligence process information with logic and reason, seeking accuracy and precision in learning and work, with the ability to scrutinize information and data. </p>
 
@@ -46,7 +49,7 @@ Allegedly, I'm one of the rarest personality types of all!
 Intrapersonal is between me and myself, people with strong Intrapersonal skills are adept at looking inward, learning independently and through reflection.
  I’m quintessentially introverted, introspective, and intuitive. I do psychoanalyze myself and seek deeper understanding of all things. </p>
  
-  <p> I rate considerably above average in all areas except Interpersonal skills, Interpersonal is between two or more people, and only in this category do I rate below average. People with high Interpersonal skills thrive with social interaction and are gifted in making rapport with strangers, that does not describe me very accurately because I generally just don’t bother. Although I’m like a chameleon and could blend in if I wanted, I tend to avoid people, large crowds, and social interaction. I highly value my peace, solitude, and quiet time. </p>
+  <p> I rate considerably above average in all areas except Interpersonal skills, Interpersonal is between two or more people, and only in this category do I rate below average. People with high Interpersonal skills thrive with social interaction and are gifted in making rapport with strangers, that does not describe me very accurately because I generally just don’t bother. Although I’m like a chameleon and could blend in if I wanted, I tend to avoid people, large crowds, and social interaction. I highly value my peace, solitude, and quiet time. I can be reserved when placed in a group environment, and sometimes suffer from a bit of social anxiety, but I can really come out of my shell when I'm comfortable or alone with close friends. I would take these considerations in to account when forming with a team of people, it can take a while to get to know someone. </p>
 
 <div>
 
@@ -76,4 +79,5 @@ Intrapersonal is between me and myself, people with strong Intrapersonal skills 
  <p> May I quote,
  “The more reality you see, the further away from reality you get. And the further away from reality you go, the closer to reality you get. I’ve also learned that the best way to get through an awkward moment is to mess it up, or do any other thing that could possibly be called ‘irony.’ I’ve got an 8.0 grade point average and a teacher called ‘Dad.’” - by <a href="https://www.facebook.com/botsofnewyork/photos/a.2028566864113743/2845451825758572/">Bots Of New York </a> </p>
 
+</p> 
 
