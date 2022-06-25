@@ -52,7 +52,8 @@ Intrapersonal is between me and myself, people with strong Intrapersonal skills 
 
 
 ![PersonalityPie](https://user-images.githubusercontent.com/107126263/175757465-11acd991-e680-49e8-9e8e-0b4912d1ab02.PNG)
-(images source https://personalitymax.com/report/?mi=90-93-73-73-87-40-100-100&name_key=bc2f95ab8e)
+
+ (images source https://personalitymax.com/report/?mi=90-93-73-73-87-40-100-100&name_key=bc2f95ab8e)
 <p> </p> 
 
 <div>
@@ -65,7 +66,7 @@ Intrapersonal is between me and myself, people with strong Intrapersonal skills 
  <a href="https://openpsychometrics.org/tests/GCBS/results.php?s=4,4,4,4,4"> </a>
   
   ![conspiracy](https://user-images.githubusercontent.com/107126263/175757472-db966b4e-7206-4a64-b1cf-797e1309520b.PNG)
-<div>
+<div> (images source: https://openpsychometrics.org/tests/GCBS/)
  <div>
 <div>
  <div>
