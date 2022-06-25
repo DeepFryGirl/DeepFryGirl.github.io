@@ -17,7 +17,7 @@ I feel like this identifies me pretty accurately!
 - Principled
 - Passionate
 - Altruistic 
-- Allegedly, I'm one of the rarest personality types of all! 
+Allegedly, I'm one of the rarest personality types of all! 
 
 
 
@@ -28,6 +28,7 @@ I feel like this identifies me pretty accurately!
 
 ![Personality1](https://user-images.githubusercontent.com/107126263/175757440-99a2cdb7-d2e5-488f-b985-41993049fd7d.PNG)
 
+![PersonalityGraph](https://user-images.githubusercontent.com/107126263/175757459-30af80e0-d64f-4a4d-a5f7-198bafa1ec11.PNG)
 
 <p> I learn best Kinesthetically, by doing. I also demonstrate the ability to concentrate when listening and absorb information very well in this way, as well as from reading and following clearly written instructions. </p>
 
@@ -46,23 +47,29 @@ Intrapersonal is between me and myself, people with strong Intrapersonal skills 
  
   <p> I rate considerably above average in all areas except Interpersonal skills, Interpersonal is between two or more people, and only in this category do I rate below average. People with high Interpersonal skills thrive with social interaction and are gifted in making rapport with strangers, that does not describe me very accurately because I generally just don’t bother. Although I’m like a chameleon and could blend in if I wanted, I tend to avoid people, large crowds, and social interaction. I highly value my peace, solitude, and quiet time. </p>
 
+<div>
 
-![PersonalityGraph](https://user-images.githubusercontent.com/107126263/175757459-30af80e0-d64f-4a4d-a5f7-198bafa1ec11.PNG)
 
 ![PersonalityPie](https://user-images.githubusercontent.com/107126263/175757465-11acd991-e680-49e8-9e8e-0b4912d1ab02.PNG)
 
 <p> </p> 
 
 <div>
+ <div>
+  <div>
+   <div>
+    <div>
 <h1> I scored 5/5 on the Generic Conspiracist Beliefs Test </h1>
 <a href="https://openpsychometrics.org/tests/GCBS/">General Conspiracist Beliefs Test</a> 
-<a href="https://openpsychometrics.org/tests/GCBS/results.php?s=4,4,4,4,4">
+ <a href="https://openpsychometrics.org/tests/GCBS/results.php?s=4,4,4,4,4"> </a>
   
   ![conspiracy](https://user-images.githubusercontent.com/107126263/175757472-db966b4e-7206-4a64-b1cf-797e1309520b.PNG)
 <div>
- 
-
-May I quote,
-“The more reality you see, the further away from reality you get. And the further away from reality you go, the closer to reality you get. I’ve also learned that the best way to get through an awkward moment is to mess it up, or do any other thing that could possibly be called ‘irony.’ I’ve got an 8.0 grade point average and a teacher called ‘Dad.’” - <a href= "https://www.facebook.com/botsofnewyork/photos/a.2028566864113743/2845451825758572/">Bots Of New York</a>
+ <div>
+<div>
+ <div>
+  
+ May I quote,
+ “The more reality you see, the further away from reality you get. And the further away from reality you go, the closer to reality you get. I’ve also learned that the best way to get through an awkward moment is to mess it up, or do any other thing that could possibly be called ‘irony.’ I’ve got an 8.0 grade point average and a teacher called ‘Dad.’” - by <a href="https://www.facebook.com/botsofnewyork/photos/a.2028566864113743/2845451825758572/">Bots Of New York </a>
 
 
