@@ -35,10 +35,10 @@
 <h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a> </h1>
 <br>
 <h1> See my Project Visions: </h1>
-<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/ProjectIdeasINDEX.md">Project Visions</a> </h1>
+<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/ProjectIdeasINDEX.md">Dream Job / Project</a> </h1>
 <br>
-<h1> See My First Project Idea: </h1>
-<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/FirstProjectINDEX.md">First Project Idea</a> </h1>
+<h1> See My First Project Plan: </h1>
+<h1> <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/FirstProjectINDEX.md">First Project Plan</a> </h1>
 <br>
 <div>
  <div>
