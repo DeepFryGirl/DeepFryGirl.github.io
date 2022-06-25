@@ -15,7 +15,7 @@ I feel like this identifies me pretty accurately!
 - Principled
 - Passionate
 - Altruistic 
-Allegedly, I'm one of the rarest personality types of all! 
+<p> Allegedly, I'm one of the rarest personality types of all! </p>
  
  <div>
  <div>
