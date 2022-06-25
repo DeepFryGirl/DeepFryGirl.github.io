@@ -30,3 +30,7 @@
  <h1> See my Learning Styles: </h1>
  
 <a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/personalityINDEX.md">Personality profile & Learning Styles</a>
+
+<h1> See my Project Visions: </h1>
+<a href="https://github.com/DeepFryGirl/DeepFryGirl.github.io/blob/main/ProjectIdeasINDEX.md">Project Visions</a>
+
