@@ -1,4 +1,4 @@
-# DeepFryGirl.github.io
+# https://deepfrygirl.github.io/
 
 ### Welcome to my first GitHub Repository
 ### This site was built using <a href="https://pages.github.com/">GitHub Pages</a>
@@ -8,7 +8,7 @@
 #### 👋 Hi, I’m <a href="https://github.com/DeepFryGirl">DeepFryGirl</a> 
 #### 👀 I’m interested in Artificial Intelligence
 #### 🌱 I’m currently learning a Bachelor of Information Technology, at RMIT
-#### 📫 Reach me on s3559100@student.rmit.edu.au
+#### 📫 Reach me on "s3559100@student.rmit.edu.au"
 ####   Student Number: s3559100
 ## My name is Amy Lovett
 ## I was born in 1989
