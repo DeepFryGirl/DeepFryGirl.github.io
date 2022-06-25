@@ -11,8 +11,7 @@ I believe that my eclectic mix of hobbies, interests, and skills, also my values
 Companies need these diverse skills to give their AI its voice, meaning, morals, interface, and personality, and to ensure that their AI is fit for its purpose. </p>
 
 # Google’s Careers website has information about applying for jobs with them. 
-How Google hires- Check out their Webpage <a href="https://careers.google.com/how-we-hire/">Google Careers</a> 
-
+How Google hires- Check out their Webpage <a href="https://careers.google.com/how-we-hire/">Google Careers</a>  
 A particular job of interest to me: 
  <a href="https://careers.google.com/jobs/results/109659903343108806-conversational-ai-consultant-professional-services-google-cloud/?distance=50&q=AI">Conversational AI consultant</a> 
 
@@ -20,9 +19,10 @@ A particular job of interest to me:
 
 <p> Anything is achievable, if we set our minds to it!
 With the right education and skills, I can work towards an entry level role in this field.
-Starting off with the "Introduction to IT course" and the Bachelors of IT, is certainly a good place for me to start. </p
+Starting off with the "Introduction to IT course" and the "Introduction to Programming" units in the Bachelors of IT, is certainly a good place for me to start. </p
 
 ![jobCapture](https://user-images.githubusercontent.com/107126263/175758188-385cc2f7-8767-4d10-bd8d-5979b01a187c.PNG)
+(Image source https://careers.google.com/jobs/results/109659903343108806-conversational-ai-consultant-professional-services-google-cloud/?distance=50&q=AI)
 
- (Image Source: https://careers.google.com/how-we-hire/)
  
+(Reference source= https://careers.google.com/how-we-hire/)
