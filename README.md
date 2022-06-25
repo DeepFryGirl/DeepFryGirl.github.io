@@ -1,6 +1,5 @@
 # DeepFryGirl.github.io
-@DeepFryGirl
-##### V1DeeplyFriedXX
+
 ### Welcome to my first GitHub Repository
 ### This site was built using <a href="https://pages.github.com/">GitHub Pages</a>
 
